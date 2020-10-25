@@ -58,7 +58,6 @@ android {
         firebasefreeRelease.java.srcDirs += 'src/firebasefreeRelease/kotlin'
     }
 
-
     compileOptions {
         coreLibraryDesugaringEnabled = true
         sourceCompatibility = JavaVersion.VERSION_1_8
